@@ -1,4 +1,5 @@
-# SSL
-Repositorio para el TP0 de SySL
+Inforación del compilador.
 
-Readme perteneciente al 00-CHelloWord
+Compilador seleccionado: GCC
+Versión del compilador: 13.1.0 (Rev6, Built by MSYS2 project)
+Versión de C que el compilador compila: C23
